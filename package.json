@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "@deck.gl/layers": "^6.4.9",
+    "@deck.gl/mapbox": "^6.4.9",
+    "@turf/random": "^6.0.2",
+    "@urbica/react-map-gl": "^1.0.0",
+    "mapbox-gl": "^0.53.1",
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
