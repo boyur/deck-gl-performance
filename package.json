@@ -2,6 +2,7 @@
   "name": "performance_deck_gl",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://boyur.github.io/deck-gl-performance/",
   "dependencies": {
     "@deck.gl/layers": "^6.4.9",
     "@deck.gl/mapbox": "^6.4.9",
